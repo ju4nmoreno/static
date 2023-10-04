@@ -8,6 +8,9 @@ dependencies:
   '@vitejs/plugin-react':
     specifier: 4.1.0
     version: 4.1.0(vite@4.4.5)
+  canvas-confetti:
+    specifier: 1.8.0
+    version: 1.8.0
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -758,6 +761,10 @@ packages:
 
   /caniuse-lite@1.0.30001542:
     resolution: {integrity: sha512-UrtAXVcj1mvPBFQ4sKd38daP8dEcXXr5sQe6QNNinaPd0iA/cxg9/l3VrSdL73jgw5sKyuQ6jNgiKO12W3SsVA==}
+    dev: false
+
+  /canvas-confetti@1.8.0:
+    resolution: {integrity: sha512-hR2b5nGhHoqxKUufuM0CM1KRT7H7tq3ni6xIjR9mX4ilgmheX3HOgkK1yZI1DzX7yJdmXZ4KGMZUlvfxVmu7+w==}
     dev: false
 
   /chalk@2.4.2:
